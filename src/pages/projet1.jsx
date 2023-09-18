@@ -21,7 +21,7 @@ const Project1 = () => {
                 <div className="project-details__desc">
                     <p>{project.skils}</p>
                 </div>
-                {project.gitHubLink && <BtnGitHub link='https://github.com/SuhrobTeshaev'/>}
+                {project.gitHubLink && <BtnGitHub link={project.gitHubLink}/>}
                
 
             </div>

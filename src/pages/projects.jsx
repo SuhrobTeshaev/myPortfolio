@@ -12,7 +12,7 @@ const Projects = (props) => {
                 key={index} 
                 title={project.title} 
                 img={project.img} 
-                github={project.github}
+                github={project.gitHubLink}
                 index={index}
                 />
 

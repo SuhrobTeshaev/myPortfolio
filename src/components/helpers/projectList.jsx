@@ -19,11 +19,11 @@ import project6Big from './../../img/projects/06-big.jpg'
 const projects = [
     {
         id:1,
-        title: 'first project',
-        skils: 'React, redux',
+        title: 'Polar Ice-cream',
+        skils: 'html,css',
         img: project1,
         imgBig: project1Big,
-        gitHubLink:'https://github.com/SuhrobTeshaev'
+        gitHubLink:'https://github.com/SuhrobTeshaev/Polar-Ice-Cream-html-css'
     },
     {
         id:2,

@@ -3,7 +3,7 @@ import './style.css';
 
 const Project = ({title,img,github,index}) => {
     return ( 
-        <NavLink to={`/project1/${index}`}>
+        <NavLink to ={`/project1/${index}`}>
         <li className="project">
                     
                         <img 
