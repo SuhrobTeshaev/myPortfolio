@@ -20,18 +20,18 @@ const projects = [
     {
         id:1,
         title: 'Polar Ice-cream',
-        skils: 'html,css',
+        skils: 'html,css (second project using the layout)',
         img: project1,
         imgBig: project1Big,
         gitHubLink:'https://github.com/SuhrobTeshaev/Polar-Ice-Cream-html-css'
     },
     {
         id:2,
-        title: 'second project',
-        skils: 'React, redux',
+        title: 'Kal Hans',
+        skils: 'html,css,js (first project using the layout)',
         img: project2,
         imgBig: project2Big,
-        gitHubLink:'https://github.com/SuhrobTeshaev'
+        gitHubLink:'https://github.com/SuhrobTeshaev/Kal-Hans'
     },
     {
         id:3,
