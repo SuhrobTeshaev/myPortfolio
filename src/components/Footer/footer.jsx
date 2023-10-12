@@ -14,11 +14,11 @@ const Footer = () => {
                     <li className="social__item"><a href="#!"><img    src={vk} alt="Link"/></a></li>
                     <li className="social__item"><a href="#!"><img   src={i} alt="Link"/></a></li>
                     <li className="social__item"><a href="#!"><img    src={t}alt="Link"/></a></li>
-                    <li className="social__item"><a href="#!"><img    src={g} alt="Link"/></a></li>
+                    <li className="social__item"><a href="https://github.com/SuhrobTeshaev"><img    src={g} alt="Link"/></a></li>
                     <li className="social__item"><a href="#!"><img    src={l} alt="Link"/></a></li>
                 </ul>
                 <div className="copyright">
-                    <p>© 2022 frontend-dev.com</p>
+                    <p></p>
                 </div>
             </div>
         </div>
