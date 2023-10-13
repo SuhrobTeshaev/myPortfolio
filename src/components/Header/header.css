@@ -6,7 +6,7 @@
 	justify-content: center;
 	align-items: center;
 
-	background-color: var(--header-bg);
+	background-color: #003841;
 	background-image: url('./../../img/header-bg.png');
 	background-repeat: no-repeat;
 	background-size: auto;

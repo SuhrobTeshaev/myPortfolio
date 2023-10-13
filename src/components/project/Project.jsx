@@ -11,7 +11,7 @@ const Project = ({title,img,github,index}) => {
                         alt={title} 
                         className="project__img"/>
                         <h3 className="project__title">{title}</h3>
-                        <h2>{github}</h2>
+                        {/* <h2>{github}</h2> */}
                    
                 </li>
                 </NavLink>

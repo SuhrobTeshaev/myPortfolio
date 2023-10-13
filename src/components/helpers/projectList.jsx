@@ -35,33 +35,33 @@ const projects = [
     },
     {
         id:3,
-        title: 'H3 project',
-        skils: 'React, redux',
+        title: 'Search-users',
+        skils: 'React-Typescript',
         img: project3,
         imgBig: project3Big,
-        gitHubLink:'https://github.com/SuhrobTeshaev'
+        gitHubLink:'https://github.com/SuhrobTeshaev/search'
     },
 
     {
         id:4,
-        title: 'H5 project',
-        skils: 'React, redux',
+        title: 'will be new project',
+        skils: '#',
         img: project4,
         imgBig: project4Big,
        
     },
     {
         id:5,
-        title: 'H6 project',
-        skils:'React, redux' ,
+        title: 'will be new project',
+        skils:'#' ,
         img: project5,
         imgBig: project5Big,
         
     },
     {
         id:6,
-        title: 'Hello',
-        skils: 'React, redux',
+        title: 'will be new project',
+        skils: '#',
         img: project6,
         imgBig: project6Big,
        
