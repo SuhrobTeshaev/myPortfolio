@@ -1,6 +1,8 @@
 import './header.css';
 import React from 'react';
+import { useTranslation } from "react-i18next";
 const Header = () => {
+    const { t } = useTranslation();
     return (
         <header className="header">
             <div className="header__wrapper">

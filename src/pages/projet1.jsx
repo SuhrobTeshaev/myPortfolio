@@ -5,7 +5,7 @@ import { projects } from '../components/helpers/projectList';
 
 const Project1 = () => {
     const { id } = useParams();
-    const project = projects[id];
+    const project = projects.find((project) => project.id.toString() === id);
 
     return (
         <main className="section">
@@ -14,7 +14,7 @@ const Project1 = () => {
 
                     <h1 className="title-1">{project.title}</h1>
 
-                    <p>{id}</p>
+                    {/* <p>{id}</p> */}
 
                     <img src={project.imgBig} alt={project.title} className="project-details__cover" />
 
