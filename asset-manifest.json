@@ -1,14 +1,24 @@
 {
   "files": {
-    "main.css": "/myPortfolio/static/css/main.40dac771.css",
-    "main.js": "/myPortfolio/static/js/main.32575643.js",
+    "main.css": "/myPortfolio/static/css/main.3021d326.css",
+    "main.js": "/myPortfolio/static/js/main.0051d74e.js",
     "static/js/488.2c2c4401.chunk.js": "/myPortfolio/static/js/488.2c2c4401.chunk.js",
     "static/media/Navbat-big.jpg": "/myPortfolio/static/media/Navbat-big.4bc13a350f6b2a49ce30.jpg",
+    "static/media/clientNavbat-big.png": "/myPortfolio/static/media/clientNavbat-big.4ae4bb45376b0b540b76.png",
     "static/media/ion.png": "/myPortfolio/static/media/ion.feb2b0511759afc7a889.png",
+    "static/media/tjn.png": "/myPortfolio/static/media/tjn.b5a05a549d348fcc7582.png",
+    "static/media/tjn-big.png": "/myPortfolio/static/media/tjn-big.bca7c555cdd9726f97b8.png",
     "static/media/ion-big.png": "/myPortfolio/static/media/ion-big.7ebd2fdc9b7d41f5fc7c.png",
+    "static/media/clientMaster.png": "/myPortfolio/static/media/clientMaster.902bd2c726f8734e8d02.png",
     "static/media/jurat.jpg": "/myPortfolio/static/media/jurat.0ec9970342245fa9530e.jpg",
     "static/media/navbat.png": "/myPortfolio/static/media/navbat.b2ecf627da395ad0db82.png",
     "static/media/jurat-big.jpg": "/myPortfolio/static/media/jurat-big.59539a14bd4970270f41.jpg",
+    "static/media/tjnContact.png": "/myPortfolio/static/media/tjnContact.9ba37341c586ed5811ab.png",
+    "static/media/clientCalendar.png": "/myPortfolio/static/media/clientCalendar.4d765602f0e64476dcce.png",
+    "static/media/clientService.png": "/myPortfolio/static/media/clientService.66ba4c8008f07dca6216.png",
+    "static/media/client-navbat.png": "/myPortfolio/static/media/client-navbat.36b7d027f706e0c7ee00.png",
+    "static/media/clientBooking.jpg": "/myPortfolio/static/media/clientBooking.b56b0d7abef2fff2129f.jpg",
+    "static/media/tjnAuth.png": "/myPortfolio/static/media/tjnAuth.b1120486ed8f58f025ad.png",
     "static/media/sun.svg": "/myPortfolio/static/media/sun.f8606845ee97bee21c3bc95b2dec3866.svg",
     "static/media/moon.svg": "/myPortfolio/static/media/moon.312bed9230c94183d589bcc499993093.svg",
     "static/media/gitHub.svg": "/myPortfolio/static/media/gitHub.a5541850a2a6843f34467a91657cc39d.svg",
@@ -19,12 +29,12 @@
     "static/media/icons8-telegram.svg": "/myPortfolio/static/media/icons8-telegram.13533387310c8229738b6168894819f8.svg",
     "index.html": "/myPortfolio/index.html",
     "static/media/getFetch.cjs": "/myPortfolio/static/media/getFetch.8cb691744774ba50fee8.cjs",
-    "main.40dac771.css.map": "/myPortfolio/static/css/main.40dac771.css.map",
-    "main.32575643.js.map": "/myPortfolio/static/js/main.32575643.js.map",
+    "main.3021d326.css.map": "/myPortfolio/static/css/main.3021d326.css.map",
+    "main.0051d74e.js.map": "/myPortfolio/static/js/main.0051d74e.js.map",
     "488.2c2c4401.chunk.js.map": "/myPortfolio/static/js/488.2c2c4401.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.40dac771.css",
-    "static/js/main.32575643.js"
+    "static/css/main.3021d326.css",
+    "static/js/main.0051d74e.js"
   ]
 }
